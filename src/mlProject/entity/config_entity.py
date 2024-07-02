@@ -20,3 +20,12 @@ class DataTransformationConfig:
     month: int
     root_dir: Path
     data_path: Path
+
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    pred_data_path: Path
+    model_path: Path
+    year: int
+    month: int
