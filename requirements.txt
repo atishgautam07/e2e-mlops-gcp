@@ -13,6 +13,6 @@ pandas
 seaborn
 hyperopt
 xgboost
-fastparquet
+pyarrow
 boto3
 -e .

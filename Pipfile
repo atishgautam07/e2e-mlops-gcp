@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-box = "==6.0.2"
+pyyaml = "*"
+tqdm = "*"
+ensure = "==1.0.2"
+joblib = "*"
+types-pyyaml = "*"
+flask = "*"
+flask-cors = "*"
+mlflow = "*"
+jupyter = "*"
+scikit-learn = "*"
+pandas = "*"
+seaborn = "*"
+hyperopt = "*"
+xgboost = "*"
+pyarrow = "*"
+boto3 = "*"
+mlproject = {file = ".", editable = true}
+gunicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.6"
