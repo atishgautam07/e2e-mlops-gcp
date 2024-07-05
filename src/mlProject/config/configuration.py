@@ -1,6 +1,6 @@
 from mlProject.constants import *
 from mlProject.utils.common import read_yaml, create_directories
-from mlProject.entity.config_entity import (DataIngestionConfig, DataTransformationConfig, ModelEvaluationConfig)
+from mlProject.entity.config_entity import (DataIngestionConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig)
 
 class ConfigurationManager:
     def __init__(
@@ -25,16 +25,18 @@ class ConfigurationManager:
 
         data_ingestion_config = DataIngestionConfig(
             color=params.color,
-            year=params.year,
-            month=params.month,
+            year_train=params.year_train,
+            month_train=params.month_train,
+            year_val=params.year_val,
+            month_val=params.month_val,
+            year_test=params.year_test,
+            month_test=params.month_test,
+            
             root_dir=config.root_dir,
-            source_URL=config.source_URL + f'{params.color}_tripdata_{params.year:04d}-{params.month:02d}.parquet',
-            local_data=config.local_data,
-            local_data_file=config.local_data_file + f'{params.color}_tripdata_{params.year:04d}-{params.month:02d}.parquet'
+            source_URL=config.source_URL,
         )
 
-        return data_ingestion_config
-    
+        return data_ingestion_config    
     
 
     def get_data_transformation_config(self) -> DataTransformationConfig:
@@ -44,8 +46,14 @@ class ConfigurationManager:
         create_directories([config.root_dir])
 
         data_transformation_config = DataTransformationConfig(
-            year=params.year,
-            month=params.month,
+            color=params.color,
+            year_train=params.year_train,
+            month_train=params.month_train,
+            year_val=params.year_val,
+            month_val=params.month_val,
+            year_test=params.year_test,
+            month_test=params.month_test,
+            
             root_dir=config.root_dir,
             data_path=config.data_path,
         )
@@ -53,18 +61,37 @@ class ConfigurationManager:
         return data_transformation_config
     
 
+    def get_model_trainer_config(self) -> ModelTrainerConfig:
+        config = self.config.model_trainer
+        
+        create_directories([config.root_dir])
+
+        model_trainer_config = ModelTrainerConfig(
+            root_dir=config.root_dir,
+            num_trials=config.num_trials,
+            train_data_path = config.train_data_path,
+            test_data_path = config.test_data_path,
+            mlflow_uri = config.mlflow_uri
+            
+        )
+
+        return model_trainer_config
+
+
     def get_model_evaluation_config(self) -> ModelEvaluationConfig:
         config = self.config.model_evaluation
-        params = self.params.dataDetails
-
+        
         create_directories([config.root_dir])
 
         model_evaluation_config = ModelEvaluationConfig(
             root_dir=config.root_dir,
-            pred_data_path=config.pred_data_path,
-            model_path = config.model_path,
-            year=params.year,
-            month=params.month            
+            data_path=config.data_path,
+            top_n=config.top_n,
+            ml_uri=config.ml_uri,
+            hpo_exp=config.hpo_exp,
+            exp_name=config.exp_name,
+            rf_params=config.rf_params,
+            
         )
 
         return model_evaluation_config

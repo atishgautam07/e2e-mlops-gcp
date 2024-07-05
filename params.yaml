@@ -1,4 +1,10 @@
 dataDetails:
   color: "yellow"
-  year: 2023
-  month: 3
+  year_train: 2023
+  month_train: 1
+  year_val: 2023
+  month_val: 2
+  year_test: 2023
+  month_test: 3
+
+  

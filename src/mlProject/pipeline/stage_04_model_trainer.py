@@ -1,26 +1,26 @@
 from mlProject.config.configuration import ConfigurationManager
-from mlProject.components.model_evaluation import ModelEvaluation
+from mlProject.components.model_trainer import ModelTrainer
 from mlProject import logger
 from pathlib import Path
 
-STAGE_NAME = "Model Evaluation stage"
+STAGE_NAME = "Model training stage"
 
-class ModelEvaluationTrainingPipeline:
+class ModelTrainerTrainingPipeline:
     def __init__(self):
         pass
 
+
     def main(self):
         config = ConfigurationManager()
-        model_evaluation_config = config.get_model_evaluation_config()
-        model_evaluation_config = ModelEvaluation(config=model_evaluation_config)
-        model_evaluation_config.run_register_model()
-
+        model_trainer_config = config.get_model_trainer_config()
+        model_trainer_config = ModelTrainer(config=model_trainer_config)
+        model_trainer_config.train()
 
 
 if __name__ == '__main__':
     try:
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
-        obj = ModelEvaluationTrainingPipeline()
+        obj = ModelTrainerTrainingPipeline()
         obj.main()
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
     except Exception as e:

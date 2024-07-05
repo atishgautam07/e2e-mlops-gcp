@@ -491,3 +491,1130 @@ x==========x]
 [2024-07-03 10:29:22,834: INFO: _internal:  * Restarting with stat]
 [2024-07-03 10:29:23,445: WARNING: _internal:  * Debugger is active!]
 [2024-07-03 10:29:23,454: INFO: _internal:  * Debugger PIN: 145-418-439]
+[2024-07-04 10:52:32,394: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 10:52:32,398: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 10:52:32,399: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 10:52:32,400: INFO: common: created directory at: artifacts]
+[2024-07-04 10:52:32,401: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-04 10:53:01,719: INFO: 3657302840: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-04 10:53:25,158: INFO: 3657302840: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-04 10:53:54,004: INFO: 3657302840: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-04 10:55:46,248: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 10:55:46,250: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 10:55:46,251: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 10:55:46,252: INFO: common: created directory at: artifacts]
+[2024-07-04 10:55:46,252: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-04 10:56:11,990: INFO: 3409143912: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-04 10:56:39,984: INFO: 3409143912: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-04 10:57:06,419: INFO: 3409143912: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-04 11:07:54,429: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 11:07:54,432: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 11:07:54,433: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 11:07:54,434: INFO: common: created directory at: artifacts]
+[2024-07-04 11:07:54,435: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-04 11:07:54,436: INFO: 3928824390: reading file - artifacts/data_ingestion/yellow_tripdata_2023-03.parquet]
+[2024-07-04 11:08:43,991: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 11:08:43,993: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 11:08:43,994: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 11:08:43,995: INFO: common: created directory at: artifacts]
+[2024-07-04 11:08:43,995: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-04 11:08:43,996: INFO: 3928824390: reading file - artifacts/data_ingestion]
+[2024-07-04 11:11:03,331: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 11:11:03,334: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 11:11:03,335: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 11:11:03,336: INFO: common: created directory at: artifacts]
+[2024-07-04 11:11:03,337: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-04 11:11:03,337: INFO: 3593536188: reading file - artifacts/data_ingestion]
+[2024-07-04 11:14:23,749: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 11:14:23,753: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 11:14:23,755: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 11:14:23,755: INFO: common: created directory at: artifacts]
+[2024-07-04 11:14:23,756: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-04 11:14:23,757: INFO: 2986920637: reading file - artifacts/data_ingestion]
+[2024-07-04 11:14:59,245: INFO: 2986920637: Data transformation completed]
+[2024-07-04 13:48:05,681: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:48:05,684: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:48:05,686: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:48:05,686: INFO: common: created directory at: artifacts]
+[2024-07-04 13:48:05,688: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:48:42,169: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:48:42,171: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:48:42,171: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:48:42,172: INFO: common: created directory at: artifacts]
+[2024-07-04 13:48:42,173: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:49:49,715: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:49:49,718: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:49:49,719: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:49:49,720: INFO: common: created directory at: artifacts]
+[2024-07-04 13:49:49,721: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:51:23,458: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:51:23,461: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:51:23,462: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:51:23,463: INFO: common: created directory at: artifacts]
+[2024-07-04 13:51:23,463: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:52:37,955: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:52:37,957: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:52:37,959: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:52:37,960: INFO: common: created directory at: artifacts]
+[2024-07-04 13:52:37,960: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:52:38,116: INFO: tpe: build_posterior_wrapper took 0.001382 seconds]
+[2024-07-04 13:52:38,116: INFO: tpe: TPE using 0 trials]
+[2024-07-04 13:57:24,549: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 13:57:24,552: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 13:57:24,553: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 13:57:24,553: INFO: common: created directory at: artifacts]
+[2024-07-04 13:57:24,554: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 13:57:24,691: INFO: tpe: build_posterior_wrapper took 0.001347 seconds]
+[2024-07-04 13:57:24,692: INFO: tpe: TPE using 0 trials]
+[2024-07-04 14:04:51,260: INFO: tpe: build_posterior_wrapper took 0.001215 seconds]
+[2024-07-04 14:04:51,261: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-04 14:05:10,598: INFO: tpe: build_posterior_wrapper took 0.001070 seconds]
+[2024-07-04 14:05:10,599: INFO: tpe: TPE using 2/2 trials with best loss 5.080919]
+[2024-07-04 14:05:38,601: INFO: tpe: build_posterior_wrapper took 0.001069 seconds]
+[2024-07-04 14:05:38,602: INFO: tpe: TPE using 3/3 trials with best loss 5.080919]
+[2024-07-04 14:10:44,849: INFO: tpe: build_posterior_wrapper took 0.003192 seconds]
+[2024-07-04 14:10:44,851: INFO: tpe: TPE using 4/4 trials with best loss 5.073247]
+[2024-07-04 14:13:00,746: INFO: tpe: build_posterior_wrapper took 0.001343 seconds]
+[2024-07-04 14:13:00,747: INFO: tpe: TPE using 5/5 trials with best loss 5.073247]
+[2024-07-04 14:21:59,627: INFO: tpe: build_posterior_wrapper took 0.001126 seconds]
+[2024-07-04 14:21:59,628: INFO: tpe: TPE using 6/6 trials with best loss 5.066111]
+[2024-07-04 14:32:01,736: INFO: tpe: build_posterior_wrapper took 0.001333 seconds]
+[2024-07-04 14:32:01,737: INFO: tpe: TPE using 7/7 trials with best loss 5.048430]
+[2024-07-04 20:23:57,652: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:23:57,655: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:23:57,657: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:23:57,658: INFO: common: created directory at: artifacts]
+[2024-07-04 20:23:57,658: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:26:19,618: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:26:19,622: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:26:19,623: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:26:19,624: INFO: common: created directory at: artifacts]
+[2024-07-04 20:26:19,625: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:34:16,668: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:34:16,672: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:34:16,673: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:34:16,674: INFO: common: created directory at: artifacts]
+[2024-07-04 20:34:16,675: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:36:23,512: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:36:23,515: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:36:23,517: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:36:23,518: INFO: common: created directory at: artifacts]
+[2024-07-04 20:36:23,519: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:38:20,564: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:38:20,567: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:38:20,568: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:38:20,569: INFO: common: created directory at: artifacts]
+[2024-07-04 20:38:20,569: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:39:40,293: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 20:39:40,295: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 20:39:40,296: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 20:39:40,296: INFO: common: created directory at: artifacts]
+[2024-07-04 20:39:40,297: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 20:39:44,586: INFO: 2860492832: Retrieve the top_n model runs and log the models.]
+[2024-07-04 20:39:44,612: INFO: 2860492832: logging top_n models wiht test metrics.]
+[2024-07-04 21:18:28,656: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 21:18:28,660: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 21:18:28,662: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 21:18:28,663: INFO: common: created directory at: artifacts]
+[2024-07-04 21:18:28,664: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 21:18:28,898: INFO: 3453027334: Retrieve the top_n model runs and log the models.]
+[2024-07-04 21:18:28,924: INFO: 3453027334: 5]
+[2024-07-04 21:18:28,925: INFO: 3453027334: logging top_n models wiht test metrics.]
+[2024-07-04 21:18:28,925: INFO: 3453027334: <Run: data=<RunData: metrics={'rmse': 5.048429759131888}, params={'max_depth': '18',
+ 'min_samples_leaf': '1',
+ 'min_samples_split': '10',
+ 'n_estimators': '38',
+ 'random_state': '42'}, tags={'mlflow.runName': 'vaunted-toad-237',
+ 'mlflow.source.name': '/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/ipykernel_launcher.py',
+ 'mlflow.source.type': 'LOCAL',
+ 'mlflow.user': 'whysocurious',
+ 'model': 'randomforest'}>, info=<RunInfo: artifact_uri='/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/artifacts/1/c4b4cd1251bc4d7f8f954dd24d1b22c9/artifacts', end_time=1720083721720, experiment_id='1', lifecycle_stage='active', run_id='c4b4cd1251bc4d7f8f954dd24d1b22c9', run_name='vaunted-toad-237', run_uuid='c4b4cd1251bc4d7f8f954dd24d1b22c9', start_time=1720083119631, status='FINISHED', user_id='whysocurious'>, inputs=<RunInputs: dataset_inputs=[]>>]
+[2024-07-04 21:24:33,830: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 21:24:33,833: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 21:24:33,834: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 21:24:33,835: INFO: common: created directory at: artifacts]
+[2024-07-04 21:24:33,836: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 21:24:34,076: INFO: 2728279645: Retrieve the top_n model runs and log the models.]
+[2024-07-04 21:24:34,097: INFO: 2728279645: 5]
+[2024-07-04 21:24:34,097: INFO: 2728279645: logging top_n models wiht test metrics.]
+[2024-07-04 21:24:34,097: INFO: 2728279645: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 21:24:34,331: INFO: 2728279645: max_depth]
+[2024-07-04 21:24:34,332: INFO: 2728279645: n_estimators]
+[2024-07-04 21:24:34,333: INFO: 2728279645: min_samples_split]
+[2024-07-04 21:24:34,333: INFO: 2728279645: min_samples_leaf]
+[2024-07-04 21:24:34,333: INFO: 2728279645: random_state]
+[2024-07-04 21:29:26,418: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 21:29:26,421: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 21:29:26,422: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 21:29:26,422: INFO: common: created directory at: artifacts]
+[2024-07-04 21:29:26,423: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 21:29:26,886: INFO: 3401920861: Retrieve the top_n model runs and log the models.]
+[2024-07-04 21:29:26,918: INFO: 3401920861: 5]
+[2024-07-04 21:29:26,918: INFO: 3401920861: logging top_n models wiht test metrics.]
+[2024-07-04 21:29:26,919: INFO: 3401920861: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 21:29:27,167: INFO: 3401920861: max_depth]
+[2024-07-04 21:29:27,168: INFO: 3401920861: n_estimators]
+[2024-07-04 21:29:27,168: INFO: 3401920861: min_samples_split]
+[2024-07-04 21:29:27,169: INFO: 3401920861: min_samples_leaf]
+[2024-07-04 21:29:27,169: INFO: 3401920861: random_state]
+[2024-07-04 21:29:27,170: INFO: 3401920861: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 21:33:47,798: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 21:33:47,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 21:33:47,803: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 21:33:47,803: INFO: common: created directory at: artifacts]
+[2024-07-04 21:33:47,806: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 21:33:48,121: INFO: 3736386699: Retrieve the top_n model runs and log the models.]
+[2024-07-04 21:33:48,145: INFO: 3736386699: 5]
+[2024-07-04 21:33:48,146: INFO: 3736386699: logging top_n models wiht test metrics.]
+[2024-07-04 21:33:48,146: INFO: 3736386699: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 21:33:48,372: INFO: 3736386699: max_depth]
+[2024-07-04 21:33:48,373: INFO: 3736386699: n_estimators]
+[2024-07-04 21:33:48,373: INFO: 3736386699: min_samples_split]
+[2024-07-04 21:33:48,374: INFO: 3736386699: min_samples_leaf]
+[2024-07-04 21:33:48,375: INFO: 3736386699: random_state]
+[2024-07-04 21:33:48,375: INFO: 3736386699: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 10, 'random_state': 42}]
+[2024-07-04 22:05:03,828: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:05:03,831: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:05:03,832: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:05:03,833: INFO: common: created directory at: artifacts]
+[2024-07-04 22:05:03,834: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 22:05:04,098: INFO: 3257744607: Retrieve the top_n model runs and log the models.]
+[2024-07-04 22:05:04,121: INFO: 3257744607: 5]
+[2024-07-04 22:05:04,122: INFO: 3257744607: logging top_n models wiht test metrics.]
+[2024-07-04 22:05:04,123: INFO: 3257744607: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 22:05:04,335: INFO: 3257744607: max_depth]
+[2024-07-04 22:05:04,337: INFO: 3257744607: n_estimators]
+[2024-07-04 22:05:04,337: INFO: 3257744607: min_samples_split]
+[2024-07-04 22:05:04,337: INFO: 3257744607: min_samples_leaf]
+[2024-07-04 22:05:04,338: INFO: 3257744607: random_state]
+[2024-07-04 22:05:04,338: INFO: 3257744607: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 22:05:04,339: INFO: 3257744607: Fitting model.]
+[2024-07-04 22:08:51,964: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:08:51,967: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:08:51,969: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:08:51,970: INFO: common: created directory at: artifacts]
+[2024-07-04 22:08:51,970: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 22:08:52,190: INFO: 4112947768: Retrieve the top_n model runs and log the models.]
+[2024-07-04 22:08:52,210: INFO: 4112947768: 5]
+[2024-07-04 22:08:52,210: INFO: 4112947768: logging top_n models wiht test metrics.]
+[2024-07-04 22:08:52,211: INFO: 4112947768: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 22:08:52,375: INFO: 4112947768: max_depth]
+[2024-07-04 22:08:52,376: INFO: 4112947768: n_estimators]
+[2024-07-04 22:08:52,377: INFO: 4112947768: min_samples_split]
+[2024-07-04 22:08:52,377: INFO: 4112947768: min_samples_leaf]
+[2024-07-04 22:08:52,377: INFO: 4112947768: random_state]
+[2024-07-04 22:08:52,378: INFO: 4112947768: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 22:08:52,378: INFO: 4112947768: Fitting model.]
+[2024-07-04 22:19:10,544: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:19:10,547: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:19:10,549: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:19:10,550: INFO: common: created directory at: artifacts]
+[2024-07-04 22:19:10,550: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-04 22:19:10,694: INFO: tpe: build_posterior_wrapper took 0.000820 seconds]
+[2024-07-04 22:19:10,694: INFO: tpe: TPE using 0 trials]
+[2024-07-04 22:23:17,459: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:23:17,462: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:23:17,463: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:23:17,464: INFO: common: created directory at: artifacts]
+[2024-07-04 22:23:17,464: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 22:23:17,796: INFO: 4158081139: Retrieve the top_n model runs and log the models.]
+[2024-07-04 22:23:17,824: INFO: 4158081139: 5]
+[2024-07-04 22:23:17,824: INFO: 4158081139: logging top_n models wiht test metrics.]
+[2024-07-04 22:23:17,825: INFO: 4158081139: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 22:23:18,145: INFO: 4158081139: max_depth]
+[2024-07-04 22:23:18,146: INFO: 4158081139: n_estimators]
+[2024-07-04 22:23:18,147: INFO: 4158081139: min_samples_split]
+[2024-07-04 22:23:18,148: INFO: 4158081139: min_samples_leaf]
+[2024-07-04 22:23:18,148: INFO: 4158081139: random_state]
+[2024-07-04 22:23:18,149: INFO: 4158081139: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42, 'n_jobs': 1}]
+[2024-07-04 22:23:18,150: INFO: 4158081139: Fitting model.]
+[2024-07-04 22:24:55,946: INFO: tpe: build_posterior_wrapper took 0.000756 seconds]
+[2024-07-04 22:24:55,946: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-04 22:25:52,466: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:25:52,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:25:52,468: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:25:52,469: INFO: common: created directory at: artifacts]
+[2024-07-04 22:25:52,469: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 22:25:52,711: INFO: 945112984: Retrieve the top_n model runs and log the models.]
+[2024-07-04 22:25:52,815: INFO: 945112984: 5]
+[2024-07-04 22:25:52,816: INFO: 945112984: logging top_n models wiht test metrics.]
+[2024-07-04 22:25:52,816: INFO: 945112984: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 22:25:53,106: INFO: 945112984: max_depth]
+[2024-07-04 22:25:53,106: INFO: 945112984: n_estimators]
+[2024-07-04 22:25:53,107: INFO: 945112984: min_samples_split]
+[2024-07-04 22:25:53,107: INFO: 945112984: min_samples_leaf]
+[2024-07-04 22:25:53,107: INFO: 945112984: random_state]
+[2024-07-04 22:25:53,108: INFO: 945112984: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42, 'n_jobs': 1}]
+[2024-07-04 22:25:53,108: INFO: 945112984: Fitting model.]
+[2024-07-04 22:33:10,652: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 22:33:10,654: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 22:33:10,655: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 22:33:10,655: INFO: common: created directory at: artifacts]
+[2024-07-04 22:33:10,656: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 22:33:10,879: INFO: 2457570326: Retrieve the top_n model runs and log the models.]
+[2024-07-04 22:33:10,901: INFO: 2457570326: 5]
+[2024-07-04 22:33:10,902: INFO: 2457570326: logging top_n models wiht test metrics.]
+[2024-07-04 22:33:10,902: INFO: 2457570326: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 22:33:11,188: INFO: 2457570326: max_depth]
+[2024-07-04 22:33:11,189: INFO: 2457570326: n_estimators]
+[2024-07-04 22:33:11,189: INFO: 2457570326: min_samples_split]
+[2024-07-04 22:33:11,189: INFO: 2457570326: min_samples_leaf]
+[2024-07-04 22:33:11,190: INFO: 2457570326: random_state]
+[2024-07-04 22:33:11,191: INFO: 2457570326: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42, 'n_jobs': 1}]
+[2024-07-04 22:33:11,191: INFO: 2457570326: Fitting model.]
+[2024-07-04 22:33:11,191: INFO: 2457570326: RandomForestRegressor(max_depth=18, min_samples_split=10, n_estimators=38,
+                      n_jobs=1, random_state=42)]
+[2024-07-04 23:11:32,860: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 23:11:32,862: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 23:11:32,864: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 23:11:32,864: INFO: common: created directory at: artifacts]
+[2024-07-04 23:11:32,865: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 23:11:33,550: INFO: 2878021218: Retrieve the top_n model runs and log the models.]
+[2024-07-04 23:11:33,821: INFO: 2878021218: 5]
+[2024-07-04 23:11:33,822: INFO: 2878021218: logging top_n models wiht test metrics.]
+[2024-07-04 23:11:33,822: INFO: 2878021218: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 23:11:34,129: INFO: 2878021218: max_depth]
+[2024-07-04 23:11:34,130: INFO: 2878021218: n_estimators]
+[2024-07-04 23:11:34,131: INFO: 2878021218: min_samples_split]
+[2024-07-04 23:11:34,131: INFO: 2878021218: min_samples_leaf]
+[2024-07-04 23:11:34,131: INFO: 2878021218: random_state]
+[2024-07-04 23:11:34,132: INFO: 2878021218: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 23:11:34,132: INFO: 2878021218: Fitting model.]
+[2024-07-04 23:11:34,133: INFO: 2878021218: RandomForestRegressor(max_depth=18, min_samples_split=10, n_estimators=38,
+                      random_state=42)]
+[2024-07-04 23:12:58,268: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 23:12:58,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 23:12:58,270: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 23:12:58,271: INFO: common: created directory at: artifacts]
+[2024-07-04 23:12:58,271: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 23:12:58,748: INFO: 2657474627: Retrieve the top_n model runs and log the models.]
+[2024-07-04 23:12:58,773: INFO: 2657474627: 5]
+[2024-07-04 23:12:58,773: INFO: 2657474627: logging top_n models wiht test metrics.]
+[2024-07-04 23:12:58,774: INFO: 2657474627: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 23:12:58,774: INFO: 2657474627: max_depth]
+[2024-07-04 23:12:58,775: INFO: 2657474627: n_estimators]
+[2024-07-04 23:12:58,775: INFO: 2657474627: min_samples_split]
+[2024-07-04 23:12:58,775: INFO: 2657474627: min_samples_leaf]
+[2024-07-04 23:12:58,776: INFO: 2657474627: random_state]
+[2024-07-04 23:12:58,776: INFO: 2657474627: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 23:12:58,834: INFO: 2657474627: Fitting model.]
+[2024-07-04 23:12:58,834: INFO: 2657474627: RandomForestRegressor(max_depth=18, min_samples_split=10, n_estimators=38,
+                      random_state=42)]
+[2024-07-04 23:15:56,911: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 23:15:56,913: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 23:15:56,914: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 23:15:56,914: INFO: common: created directory at: artifacts]
+[2024-07-04 23:15:56,915: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 23:15:57,275: INFO: 3035593370: Retrieve the top_n model runs and log the models.]
+[2024-07-04 23:15:57,308: INFO: 3035593370: 5]
+[2024-07-04 23:15:57,309: INFO: 3035593370: logging top_n models wiht test metrics.]
+[2024-07-04 23:15:57,309: INFO: 3035593370: {'max_depth': '2', 'min_samples_leaf': '4', 'min_samples_split': '7', 'n_estimators': '22', 'random_state': '42'}]
+[2024-07-04 23:15:57,309: INFO: 3035593370: max_depth]
+[2024-07-04 23:15:57,310: INFO: 3035593370: n_estimators]
+[2024-07-04 23:15:57,310: INFO: 3035593370: min_samples_split]
+[2024-07-04 23:15:57,311: INFO: 3035593370: min_samples_leaf]
+[2024-07-04 23:15:57,311: INFO: 3035593370: random_state]
+[2024-07-04 23:15:57,311: INFO: 3035593370: {'max_depth': 2, 'min_samples_leaf': 4, 'min_samples_split': 7, 'n_estimators': 22, 'random_state': 42}]
+[2024-07-04 23:15:57,383: INFO: 3035593370: Fitting model.]
+[2024-07-04 23:15:57,384: INFO: 3035593370: RandomForestRegressor(max_depth=2, min_samples_leaf=4, min_samples_split=7,
+                      n_estimators=22, random_state=42)]
+[2024-07-04 23:16:27,355: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 23:16:27,358: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 23:16:27,358: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 23:16:27,359: INFO: common: created directory at: artifacts]
+[2024-07-04 23:16:27,360: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 23:16:27,604: INFO: 3147320992: Retrieve the top_n model runs and log the models.]
+[2024-07-04 23:16:27,637: INFO: 3147320992: 5]
+[2024-07-04 23:16:27,637: INFO: 3147320992: logging top_n models wiht test metrics.]
+[2024-07-04 23:16:27,638: INFO: 3147320992: {'max_depth': '2', 'min_samples_leaf': '4', 'min_samples_split': '7', 'n_estimators': '22', 'random_state': '42'}]
+[2024-07-04 23:16:27,638: INFO: 3147320992: max_depth]
+[2024-07-04 23:16:27,639: INFO: 3147320992: n_estimators]
+[2024-07-04 23:16:27,639: INFO: 3147320992: min_samples_split]
+[2024-07-04 23:16:27,639: INFO: 3147320992: min_samples_leaf]
+[2024-07-04 23:16:27,640: INFO: 3147320992: random_state]
+[2024-07-04 23:16:27,640: INFO: 3147320992: {'max_depth': 2, 'min_samples_leaf': 4, 'min_samples_split': 7, 'n_estimators': 22, 'random_state': 42}]
+[2024-07-04 23:16:27,733: INFO: 3147320992: Fitting model.]
+[2024-07-04 23:16:27,734: INFO: 3147320992: RandomForestRegressor(max_depth=2, min_samples_leaf=4, min_samples_split=7,
+                      n_estimators=22, random_state=42)]
+[2024-07-04 23:18:37,296: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-04 23:18:37,299: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-04 23:18:37,300: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-04 23:18:37,300: INFO: common: created directory at: artifacts]
+[2024-07-04 23:18:37,301: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-04 23:18:37,535: INFO: 533861651: Retrieve the top_n model runs and log the models.]
+[2024-07-04 23:18:37,550: INFO: 533861651: 5]
+[2024-07-04 23:18:37,550: INFO: 533861651: logging top_n models wiht test metrics.]
+[2024-07-04 23:18:37,551: INFO: 533861651: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-04 23:18:37,551: INFO: 533861651: max_depth]
+[2024-07-04 23:18:37,552: INFO: 533861651: n_estimators]
+[2024-07-04 23:18:37,552: INFO: 533861651: min_samples_split]
+[2024-07-04 23:18:37,552: INFO: 533861651: min_samples_leaf]
+[2024-07-04 23:18:37,553: INFO: 533861651: random_state]
+[2024-07-04 23:18:37,553: INFO: 533861651: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-04 23:18:37,608: INFO: 533861651: Fitting model.]
+[2024-07-04 23:18:37,609: INFO: 533861651: RandomForestRegressor(max_depth=18, min_samples_split=10, n_estimators=38,
+                      random_state=42)]
+[2024-07-05 06:14:22,290: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:14:22,293: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:14:22,296: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:14:22,297: INFO: common: created directory at: artifacts]
+[2024-07-05 06:14:22,298: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 06:14:50,769: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:14:50,772: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:14:50,773: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:14:50,774: INFO: common: created directory at: artifacts]
+[2024-07-05 06:14:50,775: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 06:15:07,066: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:15:07,073: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:15:07,096: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:15:07,097: INFO: common: created directory at: artifacts]
+[2024-07-05 06:15:07,097: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 06:15:08,087: INFO: 533861651: Retrieve the top_n model runs and log the models.]
+[2024-07-05 06:15:08,852: INFO: 533861651: 5]
+[2024-07-05 06:15:08,853: INFO: 533861651: logging top_n models wiht test metrics.]
+[2024-07-05 06:15:08,853: INFO: 533861651: {'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}]
+[2024-07-05 06:15:08,854: INFO: 533861651: max_depth]
+[2024-07-05 06:15:08,854: INFO: 533861651: n_estimators]
+[2024-07-05 06:15:08,855: INFO: 533861651: min_samples_split]
+[2024-07-05 06:15:08,855: INFO: 533861651: min_samples_leaf]
+[2024-07-05 06:15:08,856: INFO: 533861651: random_state]
+[2024-07-05 06:15:08,856: INFO: 533861651: {'max_depth': 18, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 38, 'random_state': 42}]
+[2024-07-05 06:15:08,955: INFO: 533861651: Fitting model.]
+[2024-07-05 06:15:08,956: INFO: 533861651: RandomForestRegressor(max_depth=18, min_samples_split=10, n_estimators=38,
+                      random_state=42)]
+[2024-07-05 06:24:16,867: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 06:24:16,870: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:24:16,871: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:24:16,871: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:24:16,871: INFO: common: created directory at: artifacts]
+[2024-07-05 06:24:16,872: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 06:24:48,267: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 06:25:12,861: INFO: data_ingestion: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-05 06:25:55,673: INFO: data_ingestion: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-05 06:25:55,674: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 06:25:55,674: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 06:25:55,676: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:25:55,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:25:55,678: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:25:55,678: INFO: common: created directory at: artifacts]
+[2024-07-05 06:25:55,678: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 06:25:55,679: INFO: data_transformation: reading files from  - artifacts/data_ingestion]
+[2024-07-05 06:26:48,077: INFO: data_transformation: Writing pickle files after processing.]
+[2024-07-05 06:26:48,337: INFO: data_transformation: Data transformation completed]
+[2024-07-05 06:26:49,366: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 06:26:49,366: INFO: main: >>>>>> stage Model Training stage started <<<<<<]
+[2024-07-05 06:26:49,370: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:26:49,372: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:26:49,372: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:26:49,372: INFO: common: created directory at: artifacts]
+[2024-07-05 06:26:49,373: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 06:26:49,373: INFO: model_trainer: Reading train and val pickles.]
+[2024-07-05 06:26:49,422: INFO: model_trainer: Defining mlflow vars.]
+[2024-07-05 06:26:50,167: INFO: model_trainer: Running hyper param optimisation.]
+[2024-07-05 06:26:50,189: INFO: tpe: build_posterior_wrapper took 0.001395 seconds]
+[2024-07-05 06:26:50,189: INFO: tpe: TPE using 0 trials]
+[2024-07-05 06:34:11,703: INFO: tpe: build_posterior_wrapper took 0.001124 seconds]
+[2024-07-05 06:34:11,703: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-05 06:34:30,962: INFO: tpe: build_posterior_wrapper took 0.001054 seconds]
+[2024-07-05 06:34:30,963: INFO: tpe: TPE using 2/2 trials with best loss 5.080919]
+[2024-07-05 06:34:58,747: INFO: tpe: build_posterior_wrapper took 0.001028 seconds]
+[2024-07-05 06:34:58,747: INFO: tpe: TPE using 3/3 trials with best loss 5.080919]
+[2024-07-05 06:40:00,194: INFO: tpe: build_posterior_wrapper took 0.001041 seconds]
+[2024-07-05 06:40:00,194: INFO: tpe: TPE using 4/4 trials with best loss 5.073247]
+[2024-07-05 06:42:14,170: INFO: model_trainer: Hyper param optimisation complete and results logged into mlflow.]
+[2024-07-05 06:42:14,175: INFO: main: >>>>>> stage Model Training stage completed <<<<<<
+
+x==========x]
+[2024-07-05 06:42:14,175: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 06:42:14,178: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:42:14,180: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:42:14,180: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:42:14,181: INFO: common: created directory at: artifacts]
+[2024-07-05 06:42:14,181: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 06:42:14,181: ERROR: main: 'ModelEvaluation' object has no attribute 'run_register_model']
+Traceback (most recent call last):
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/main.py", line 44, in <module>
+    model_evaluation.main()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/pipeline/stage_05_model_evaluation.py", line 16, in main
+    model_evaluation_config.run_register_model()
+AttributeError: 'ModelEvaluation' object has no attribute 'run_register_model'
+[2024-07-05 06:44:19,947: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 06:44:19,949: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 06:44:19,950: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 06:44:19,951: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 06:44:19,951: INFO: common: created directory at: artifacts]
+[2024-07-05 06:44:19,951: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 06:44:20,659: INFO: model_evaluation: Retrieve the top_n model runs and log the models.]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: 2]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: logging top_n models wiht test metrics.]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: max_depth]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: n_estimators]
+[2024-07-05 06:44:20,687: INFO: model_evaluation: min_samples_split]
+[2024-07-05 06:44:20,688: INFO: model_evaluation: min_samples_leaf]
+[2024-07-05 06:44:20,688: INFO: model_evaluation: random_state]
+[2024-07-05 06:44:20,688: INFO: model_evaluation: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 06:44:20,785: INFO: model_evaluation: Fitting model.]
+[2024-07-05 06:44:20,785: INFO: model_evaluation: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 07:02:58,127: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:02:58,130: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:02:58,131: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:02:58,132: INFO: common: created directory at: artifacts]
+[2024-07-05 07:02:58,132: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:03:22,520: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:03:22,523: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:03:22,524: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:03:22,524: INFO: common: created directory at: artifacts]
+[2024-07-05 07:03:22,525: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:03:23,367: INFO: 3907474777: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:03:23,781: INFO: 3907474777: 2]
+[2024-07-05 07:03:23,781: INFO: 3907474777: logging top_n models wiht test metrics.]
+[2024-07-05 07:03:23,881: INFO: 3907474777: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 07:03:23,882: INFO: 3907474777: max_depth]
+[2024-07-05 07:03:23,883: INFO: 3907474777: n_estimators]
+[2024-07-05 07:03:23,884: INFO: 3907474777: min_samples_split]
+[2024-07-05 07:03:23,885: INFO: 3907474777: min_samples_leaf]
+[2024-07-05 07:03:23,885: INFO: 3907474777: random_state]
+[2024-07-05 07:03:23,886: INFO: 3907474777: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 07:03:23,887: INFO: 3907474777: Fitting model.]
+[2024-07-05 07:03:23,887: INFO: 3907474777: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 07:09:09,943: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:09:09,945: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:09:09,947: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:09:09,947: INFO: common: created directory at: artifacts]
+[2024-07-05 07:09:09,948: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:09:10,728: INFO: 2366653989: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:09:10,764: INFO: 2366653989: 2]
+[2024-07-05 07:09:10,765: INFO: 2366653989: logging top_n models wiht test metrics.]
+[2024-07-05 07:09:11,214: INFO: 2366653989: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 07:09:11,215: INFO: 2366653989: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 07:09:11,216: INFO: 2366653989: Fitting model.]
+[2024-07-05 07:09:11,216: INFO: 2366653989: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 07:13:54,203: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:13:54,206: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:13:54,207: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:13:54,208: INFO: common: created directory at: artifacts]
+[2024-07-05 07:13:54,208: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:13:54,675: INFO: 3630414425: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:13:54,722: INFO: 3630414425: 2]
+[2024-07-05 07:13:54,722: INFO: 3630414425: logging top_n models wiht test metrics.]
+[2024-07-05 07:13:54,723: INFO: 3630414425: <Run: data=<RunData: metrics={'rmse': 5.0732468909873205}, params={'max_depth': '14',
+ 'min_samples_leaf': '3',
+ 'min_samples_split': '4',
+ 'n_estimators': '26',
+ 'random_state': '42'}, tags={'mlflow.runName': 'able-flea-984',
+ 'mlflow.source.git.commit': '0376c5f8e80b46005e8edbd95b9d7c7de1a8e670',
+ 'mlflow.source.name': 'main.py',
+ 'mlflow.source.type': 'LOCAL',
+ 'mlflow.user': 'whysocurious',
+ 'model': 'randomforest'}>, info=<RunInfo: artifact_uri='/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/artifacts/1/deb24dff46fd4642b535d3af3b6dd805/artifacts', end_time=1720141800184, experiment_id='1', lifecycle_stage='active', run_id='deb24dff46fd4642b535d3af3b6dd805', run_name='able-flea-984', run_uuid='deb24dff46fd4642b535d3af3b6dd805', start_time=1720141498749, status='FINISHED', user_id='whysocurious'>, inputs=<RunInputs: dataset_inputs=[]>>]
+[2024-07-05 07:13:54,724: INFO: 3630414425: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 07:13:54,813: INFO: 3630414425: Fitting model.]
+[2024-07-05 07:15:20,295: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:15:20,308: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:15:20,318: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:15:20,333: INFO: common: created directory at: artifacts]
+[2024-07-05 07:15:20,334: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:15:20,682: INFO: 3177002239: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:15:20,718: INFO: 3177002239: 2]
+[2024-07-05 07:15:20,719: INFO: 3177002239: logging top_n models wiht test metrics.]
+[2024-07-05 07:15:20,719: INFO: 3177002239: deb24dff46fd4642b535d3af3b6dd805]
+[2024-07-05 07:15:20,720: INFO: 3177002239: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 07:15:20,720: INFO: 3177002239: 28351679ceec40ed8f6bcdcfa7becfbf]
+[2024-07-05 07:15:20,721: INFO: 3177002239: {'max_depth': 13, 'min_samples_leaf': 4, 'min_samples_split': 7, 'n_estimators': 43, 'random_state': 42}]
+[2024-07-05 07:15:20,721: INFO: 3177002239: Selecting the model with the lowest test RMSE]
+[2024-07-05 07:15:20,740: INFO: 3177002239: Registering the best model]
+[2024-07-05 07:52:10,951: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:52:10,954: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:52:10,955: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:52:10,955: INFO: common: created directory at: artifacts]
+[2024-07-05 07:52:10,956: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:52:11,298: INFO: 51971874: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:52:11,326: INFO: 51971874: 2]
+[2024-07-05 07:52:11,329: INFO: 51971874: logging top_n models wiht test metrics.]
+[2024-07-05 07:52:11,591: INFO: 51971874: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 07:52:11,592: INFO: 51971874: Fitting model.]
+[2024-07-05 07:52:11,592: INFO: 51971874: RandomForestRegressor(max_depth='14', min_samples_leaf='3',
+                      min_samples_split='4', n_estimators='26',
+                      random_state='42')]
+[2024-07-05 07:59:22,986: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:59:22,989: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:59:22,990: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:59:22,991: INFO: common: created directory at: artifacts]
+[2024-07-05 07:59:22,992: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:59:53,405: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 07:59:53,408: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 07:59:53,409: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 07:59:53,410: INFO: common: created directory at: artifacts]
+[2024-07-05 07:59:53,411: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 07:59:54,285: INFO: 2554660088: Retrieve the top_n model runs and log the models.]
+[2024-07-05 07:59:54,689: INFO: 2554660088: 2]
+[2024-07-05 07:59:54,689: INFO: 2554660088: logging top_n models wiht test metrics.]
+[2024-07-05 07:59:54,690: INFO: 2554660088: deb24dff46fd4642b535d3af3b6dd805]
+[2024-07-05 07:59:54,690: INFO: 2554660088: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 07:59:54,781: INFO: 2554660088: Fitting model.]
+[2024-07-05 08:02:30,632: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 08:02:30,634: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:02:30,636: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:02:30,636: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:02:30,636: INFO: common: created directory at: artifacts]
+[2024-07-05 08:02:30,636: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 08:02:58,638: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 08:03:32,876: INFO: data_ingestion: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-05 08:04:01,665: INFO: data_ingestion: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-05 08:04:01,665: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 08:04:01,665: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 08:04:01,668: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:04:01,669: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:04:01,669: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:04:01,669: INFO: common: created directory at: artifacts]
+[2024-07-05 08:04:01,669: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 08:04:01,670: INFO: data_transformation: reading files from  - artifacts/data_ingestion]
+[2024-07-05 08:04:49,694: INFO: data_transformation: Writing pickle files after processing.]
+[2024-07-05 08:04:49,953: INFO: data_transformation: Data transformation completed]
+[2024-07-05 08:04:50,819: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 08:04:50,819: INFO: main: >>>>>> stage Model Training stage started <<<<<<]
+[2024-07-05 08:04:50,823: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:04:50,825: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:04:50,825: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:04:50,825: INFO: common: created directory at: artifacts]
+[2024-07-05 08:04:50,826: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 08:04:50,826: INFO: model_trainer: Reading train and val pickles.]
+[2024-07-05 08:04:50,868: INFO: model_trainer: Defining mlflow vars.]
+[2024-07-05 08:04:51,189: INFO: model_trainer: Running hyper param optimisation.]
+[2024-07-05 08:04:51,205: INFO: tpe: build_posterior_wrapper took 0.001234 seconds]
+[2024-07-05 08:04:51,205: INFO: tpe: TPE using 0 trials]
+[2024-07-05 08:11:52,679: INFO: tpe: build_posterior_wrapper took 0.001079 seconds]
+[2024-07-05 08:11:52,679: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-05 08:12:11,695: INFO: tpe: build_posterior_wrapper took 0.001040 seconds]
+[2024-07-05 08:12:11,696: INFO: tpe: TPE using 2/2 trials with best loss 5.080919]
+[2024-07-05 08:12:39,123: INFO: tpe: build_posterior_wrapper took 0.001069 seconds]
+[2024-07-05 08:12:39,123: INFO: tpe: TPE using 3/3 trials with best loss 5.080919]
+[2024-07-05 08:22:51,854: INFO: tpe: build_posterior_wrapper took 0.000989 seconds]
+[2024-07-05 08:22:51,855: INFO: tpe: TPE using 4/4 trials with best loss 5.073247]
+[2024-07-05 08:25:07,985: INFO: model_trainer: Hyper param optimisation complete and results logged into mlflow.]
+[2024-07-05 08:25:07,990: INFO: main: >>>>>> stage Model Training stage completed <<<<<<
+
+x==========x]
+[2024-07-05 08:25:07,990: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 08:25:07,993: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:25:07,994: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:25:07,995: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:25:07,995: INFO: common: created directory at: artifacts]
+[2024-07-05 08:25:07,995: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 08:25:08,391: INFO: model_evaluation: Retrieve the top_n model runs and log the models.]
+[2024-07-05 08:25:08,414: INFO: model_evaluation: 2]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: logging top_n models wiht test metrics.]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: max_depth]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: n_estimators]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: min_samples_split]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: min_samples_leaf]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: random_state]
+[2024-07-05 08:25:08,415: INFO: model_evaluation: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 08:25:08,425: INFO: model_evaluation: Fitting model.]
+[2024-07-05 08:25:08,425: INFO: model_evaluation: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 08:50:29,632: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 08:50:29,637: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:50:29,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:50:29,639: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:50:29,639: INFO: common: created directory at: artifacts]
+[2024-07-05 08:50:29,639: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 08:50:55,440: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 08:51:17,748: INFO: data_ingestion: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-05 08:51:42,462: INFO: data_ingestion: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-05 08:51:42,463: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 08:51:42,463: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 08:51:42,465: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:51:42,466: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:51:42,466: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:51:42,466: INFO: common: created directory at: artifacts]
+[2024-07-05 08:51:42,467: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 08:51:42,467: INFO: data_transformation: reading files from  - artifacts/data_ingestion]
+[2024-07-05 08:52:31,283: INFO: data_transformation: Writing pickle files after processing.]
+[2024-07-05 08:52:31,474: INFO: data_transformation: Data transformation completed]
+[2024-07-05 08:52:32,432: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 08:52:32,432: INFO: main: >>>>>> stage Model Training stage started <<<<<<]
+[2024-07-05 08:52:32,436: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 08:52:32,437: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 08:52:32,437: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 08:52:32,438: INFO: common: created directory at: artifacts]
+[2024-07-05 08:52:32,438: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 08:52:32,438: INFO: model_trainer: Reading train and val pickles.]
+[2024-07-05 08:52:32,485: INFO: model_trainer: Defining mlflow vars.]
+[2024-07-05 08:52:33,193: INFO: model_trainer: Running hyper param optimisation.]
+[2024-07-05 08:52:33,207: INFO: tpe: build_posterior_wrapper took 0.001264 seconds]
+[2024-07-05 08:52:33,208: INFO: tpe: TPE using 0 trials]
+[2024-07-05 08:59:34,550: INFO: tpe: build_posterior_wrapper took 0.001080 seconds]
+[2024-07-05 08:59:34,550: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-05 08:59:54,261: INFO: tpe: build_posterior_wrapper took 0.001046 seconds]
+[2024-07-05 08:59:54,262: INFO: tpe: TPE using 2/2 trials with best loss 5.080919]
+[2024-07-05 09:00:21,698: INFO: tpe: build_posterior_wrapper took 0.001009 seconds]
+[2024-07-05 09:00:21,698: INFO: tpe: TPE using 3/3 trials with best loss 5.080919]
+[2024-07-05 09:05:18,059: INFO: tpe: build_posterior_wrapper took 0.001010 seconds]
+[2024-07-05 09:05:18,059: INFO: tpe: TPE using 4/4 trials with best loss 5.073247]
+[2024-07-05 09:07:29,236: INFO: model_trainer: Hyper param optimisation complete and results logged into mlflow.]
+[2024-07-05 09:07:29,241: INFO: main: >>>>>> stage Model Training stage completed <<<<<<
+
+x==========x]
+[2024-07-05 09:07:29,241: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 09:07:29,244: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 09:07:29,245: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 09:07:29,245: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 09:07:29,245: INFO: common: created directory at: artifacts]
+[2024-07-05 09:07:29,245: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 09:07:36,706: INFO: model_evaluation: Retrieve the top_n model runs and log the models.]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: 2]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: logging top_n models wiht test metrics.]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: max_depth]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: n_estimators]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: min_samples_split]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: min_samples_leaf]
+[2024-07-05 09:07:36,733: INFO: model_evaluation: random_state]
+[2024-07-05 09:07:36,734: INFO: model_evaluation: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 09:07:36,744: INFO: model_evaluation: Fitting model.]
+[2024-07-05 09:07:36,744: INFO: model_evaluation: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 10:04:38,215: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 10:04:38,217: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 10:04:38,217: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 10:04:38,218: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 10:04:38,218: INFO: common: created directory at: artifacts]
+[2024-07-05 10:04:38,218: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 10:05:01,789: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 10:05:20,414: INFO: data_ingestion: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-05 10:05:41,797: INFO: data_ingestion: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-05 10:05:41,798: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 10:05:41,798: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 10:05:41,799: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 10:05:41,800: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 10:05:41,800: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 10:05:41,800: INFO: common: created directory at: artifacts]
+[2024-07-05 10:05:41,801: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 10:05:41,801: INFO: data_transformation: reading files from  - artifacts/data_ingestion]
+[2024-07-05 10:06:14,605: INFO: data_transformation: Writing pickle files after processing.]
+[2024-07-05 10:06:14,778: INFO: data_transformation: Data transformation completed]
+[2024-07-05 10:06:15,449: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 10:06:15,449: INFO: main: >>>>>> stage Model Training stage started <<<<<<]
+[2024-07-05 10:06:15,452: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 10:06:15,453: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 10:06:15,453: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 10:06:15,454: INFO: common: created directory at: artifacts]
+[2024-07-05 10:06:15,454: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 10:06:15,454: INFO: model_trainer: Reading train and val pickles.]
+[2024-07-05 10:06:15,490: INFO: model_trainer: Defining mlflow vars.]
+[2024-07-05 10:06:15,734: INFO: model_trainer: Running hyper param optimisation.]
+[2024-07-05 10:06:15,749: INFO: tpe: build_posterior_wrapper took 0.000909 seconds]
+[2024-07-05 10:06:15,749: INFO: tpe: TPE using 0 trials]
+[2024-07-05 10:11:42,513: INFO: tpe: build_posterior_wrapper took 0.000835 seconds]
+[2024-07-05 10:11:42,514: INFO: tpe: TPE using 1/1 trials with best loss 5.080919]
+[2024-07-05 10:11:56,101: INFO: tpe: build_posterior_wrapper took 0.000785 seconds]
+[2024-07-05 10:11:56,101: INFO: tpe: TPE using 2/2 trials with best loss 5.080919]
+[2024-07-05 10:12:16,043: INFO: tpe: build_posterior_wrapper took 0.000771 seconds]
+[2024-07-05 10:12:16,043: INFO: tpe: TPE using 3/3 trials with best loss 5.080919]
+[2024-07-05 10:17:04,673: INFO: tpe: build_posterior_wrapper took 0.000829 seconds]
+[2024-07-05 10:17:04,673: INFO: tpe: TPE using 4/4 trials with best loss 5.073247]
+[2024-07-05 10:22:24,092: INFO: model_trainer: Hyper param optimisation complete and results logged into mlflow.]
+[2024-07-05 10:22:24,096: INFO: main: >>>>>> stage Model Training stage completed <<<<<<
+
+x==========x]
+[2024-07-05 10:22:24,096: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 10:22:24,098: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 10:22:24,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 10:22:24,099: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 10:22:24,099: INFO: common: created directory at: artifacts]
+[2024-07-05 10:22:24,099: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 10:22:24,536: INFO: model_evaluation: Retrieve the top_n model runs and log the models.]
+[2024-07-05 10:22:24,583: INFO: model_evaluation: 2]
+[2024-07-05 10:22:24,583: INFO: model_evaluation: logging top_n models wiht test metrics.]
+[2024-07-05 10:22:24,583: INFO: model_evaluation: {'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}]
+[2024-07-05 10:22:24,583: INFO: model_evaluation: max_depth]
+[2024-07-05 10:22:24,584: INFO: model_evaluation: n_estimators]
+[2024-07-05 10:22:24,584: INFO: model_evaluation: min_samples_split]
+[2024-07-05 10:22:24,584: INFO: model_evaluation: min_samples_leaf]
+[2024-07-05 10:22:24,584: INFO: model_evaluation: random_state]
+[2024-07-05 10:22:24,584: INFO: model_evaluation: {'max_depth': 14, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 26, 'random_state': 42}]
+[2024-07-05 10:22:24,593: INFO: model_evaluation: Fitting model.]
+[2024-07-05 10:22:24,593: INFO: model_evaluation: RandomForestRegressor(max_depth=14, min_samples_leaf=3, min_samples_split=4,
+                      n_estimators=26, random_state=42)]
+[2024-07-05 12:36:29,213: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 12:36:29,215: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 12:36:29,217: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 12:36:29,218: INFO: common: created directory at: artifacts]
+[2024-07-05 12:36:29,218: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 12:36:29,219: INFO: 4004355246: reading file - artifacts/data_ingestion]
+[2024-07-05 12:37:04,374: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 12:37:04,377: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 12:37:04,379: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 12:37:04,380: INFO: common: created directory at: artifacts]
+[2024-07-05 12:37:04,381: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 12:37:04,381: INFO: 4004355246: reading file - artifacts/data_ingestion]
+[2024-07-05 12:38:18,823: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 12:38:18,825: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 12:38:18,826: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 12:38:18,827: INFO: common: created directory at: artifacts]
+[2024-07-05 12:38:18,828: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 12:38:18,829: INFO: 4052946182: reading file - artifacts/data_ingestion]
+[2024-07-05 12:38:41,010: INFO: 4052946182: preprocess data.]
+[2024-07-05 12:39:01,081: INFO: 4052946182: Data transformation completed]
+[2024-07-05 12:44:39,673: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 12:44:39,676: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 12:44:39,677: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 12:44:39,678: INFO: common: created directory at: artifacts]
+[2024-07-05 12:44:39,678: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 12:44:42,042: INFO: tpe: build_posterior_wrapper took 0.001980 seconds]
+[2024-07-05 12:44:42,044: INFO: tpe: TPE using 0 trials]
+[2024-07-05 12:49:19,252: INFO: tpe: build_posterior_wrapper took 0.001757 seconds]
+[2024-07-05 12:49:19,253: INFO: tpe: TPE using 1/1 trials with best loss 5.081164]
+[2024-07-05 12:49:46,253: INFO: tpe: build_posterior_wrapper took 0.001174 seconds]
+[2024-07-05 12:49:46,254: INFO: tpe: TPE using 2/2 trials with best loss 5.081164]
+[2024-07-05 12:50:16,648: INFO: tpe: build_posterior_wrapper took 0.001235 seconds]
+[2024-07-05 12:50:16,649: INFO: tpe: TPE using 3/3 trials with best loss 5.081164]
+[2024-07-05 12:53:25,976: INFO: tpe: build_posterior_wrapper took 0.001225 seconds]
+[2024-07-05 12:53:25,977: INFO: tpe: TPE using 4/4 trials with best loss 5.073795]
+[2024-07-05 15:12:27,595: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:12:27,597: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:12:27,598: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:12:27,599: INFO: common: created directory at: artifacts]
+[2024-07-05 15:12:27,600: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 15:12:29,966: INFO: 3106351529: Retrieve the top_n model runs and log the models.]
+[2024-07-05 15:12:30,046: INFO: 3106351529: 2]
+[2024-07-05 15:12:30,047: INFO: 3106351529: logging top_n models wiht test metrics.]
+[2024-07-05 15:12:30,304: INFO: 3106351529: Evaluate model on the validation and test sets]
+[2024-07-05 15:12:51,871: INFO: 3106351529: Evaluate model on the validation and test sets]
+[2024-07-05 15:13:32,275: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:13:32,278: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:13:32,280: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:13:32,280: INFO: common: created directory at: artifacts]
+[2024-07-05 15:13:32,281: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 15:13:34,577: INFO: 2981936970: Retrieve the top_n model runs and log the models.]
+[2024-07-05 15:13:34,646: INFO: 2981936970: 2]
+[2024-07-05 15:13:34,646: INFO: 2981936970: logging top_n models wiht test metrics.]
+[2024-07-05 15:13:34,870: INFO: 2981936970: Evaluate model on the validation and test sets]
+[2024-07-05 15:13:56,387: INFO: 2981936970: Evaluate model on the validation and test sets]
+[2024-07-05 15:14:21,568: INFO: 2981936970: Selecting the model with the lowest test RMSE]
+[2024-07-05 15:14:21,605: INFO: 2981936970: Registering the best model]
+[2024-07-05 15:14:57,085: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:14:57,088: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:14:57,089: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:14:57,090: INFO: common: created directory at: artifacts]
+[2024-07-05 15:14:57,090: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 15:14:59,198: INFO: 141086892: Retrieve the top_n model runs and log the models.]
+[2024-07-05 15:14:59,266: INFO: 141086892: 2]
+[2024-07-05 15:14:59,267: INFO: 141086892: logging top_n models wiht test metrics.]
+[2024-07-05 15:14:59,267: INFO: 141086892: ('b62c83ca9ac647e9b34efc25183ef6de', "{'rmse': 5.073795325986875}", "{'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '15', 'random_state': '42'}")]
+[2024-07-05 15:14:59,340: INFO: 141086892: Evaluate model on the validation and test sets]
+[2024-07-05 15:15:20,632: INFO: 141086892: ('5c87e742ae454a35b518bd45c26b0817', "{'rmse': 5.081163597340483}", "{'max_depth': '13', 'min_samples_leaf': '4', 'min_samples_split': '7', 'n_estimators': '25', 'random_state': '42'}")]
+[2024-07-05 15:15:20,678: INFO: 141086892: Evaluate model on the validation and test sets]
+[2024-07-05 15:15:45,827: INFO: 141086892: Selecting the model with the lowest test RMSE]
+[2024-07-05 15:15:45,853: INFO: 141086892: Registering the best model]
+[2024-07-05 15:29:01,195: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 15:29:01,198: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:29:01,199: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:29:01,200: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:29:01,200: INFO: common: created directory at: artifacts]
+[2024-07-05 15:29:01,200: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 15:35:31,765: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 15:35:31,768: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:35:31,769: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:35:31,769: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:35:31,770: INFO: common: created directory at: artifacts]
+[2024-07-05 15:35:31,770: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 15:41:24,469: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 15:41:24,472: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:41:24,473: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:41:24,473: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:41:24,473: INFO: common: created directory at: artifacts]
+[2024-07-05 15:41:24,474: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 15:41:34,736: ERROR: main: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1012, in _send_output
+    self.send(msg)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 952, in send
+    self.connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1419, in connect
+    super().connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 923, in connect
+    self.sock = self._create_connection(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 822, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/main.py", line 11, in <module>
+    data_ingestion.main()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/pipeline/stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/components/data_ingestion.py", line 16, in download_file
+    pd.read_parquet(self.config.source_URL + filename_train).to_parquet(self.config.root_dir + "/" + filename_train)
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 667, in read_parquet
+    return impl.read(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 267, in read
+    path_or_handle, handles, filesystem = _get_path_or_handle(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 140, in _get_path_or_handle
+    handles = get_handle(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 728, in get_handle
+    ioargs = _get_filepath_or_buffer(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 384, in _get_filepath_or_buffer
+    with urlopen(req_info) as req:
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 289, in urlopen
+    return urllib.request.urlopen(*args, **kwargs)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2024-07-05 15:52:13,149: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 15:52:13,151: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 15:52:13,153: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 15:52:13,153: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 15:52:13,153: INFO: common: created directory at: artifacts]
+[2024-07-05 15:52:13,153: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 15:53:25,929: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 16:24:43,049: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 16:24:43,052: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 16:24:43,053: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 16:24:43,054: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 16:24:43,054: INFO: common: created directory at: artifacts]
+[2024-07-05 16:24:43,054: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 16:25:13,133: ERROR: main: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1012, in _send_output
+    self.send(msg)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 952, in send
+    self.connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1419, in connect
+    super().connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 923, in connect
+    self.sock = self._create_connection(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 822, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/main.py", line 11, in <module>
+    data_ingestion.main()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/pipeline/stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/components/data_ingestion.py", line 16, in download_file
+    pd.read_parquet(self.config.source_URL + filename_train).to_parquet(self.config.root_dir + "/" + filename_train)
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 667, in read_parquet
+    return impl.read(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 267, in read
+    path_or_handle, handles, filesystem = _get_path_or_handle(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/parquet.py", line 140, in _get_path_or_handle
+    handles = get_handle(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 728, in get_handle
+    ioargs = _get_filepath_or_buffer(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 384, in _get_filepath_or_buffer
+    with urlopen(req_info) as req:
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/pandas/io/common.py", line 289, in urlopen
+    return urllib.request.urlopen(*args, **kwargs)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2024-07-05 16:46:44,849: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-05 16:46:44,852: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 16:46:44,853: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 16:46:44,854: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 16:46:44,854: INFO: common: created directory at: artifacts]
+[2024-07-05 16:46:44,854: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-05 16:47:08,154: INFO: data_ingestion: yellow_tripdata_2023-01.parquet download! 
+]
+[2024-07-05 16:47:27,486: INFO: data_ingestion: yellow_tripdata_2023-02.parquet download! 
+]
+[2024-07-05 16:47:49,539: INFO: data_ingestion: yellow_tripdata_2023-03.parquet download! 
+]
+[2024-07-05 16:47:49,571: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-05 16:47:49,571: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-05 16:47:49,575: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 16:47:49,577: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 16:47:49,577: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 16:47:49,578: INFO: common: created directory at: artifacts]
+[2024-07-05 16:47:49,578: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-05 16:47:49,578: INFO: data_transformation: reading file - artifacts/data_ingestion]
+[2024-07-05 16:48:12,381: INFO: data_transformation: preprocess data.]
+[2024-07-05 16:48:32,502: INFO: data_transformation: Data transformation completed]
+[2024-07-05 16:48:34,373: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-05 16:48:34,373: INFO: main: >>>>>> stage Model Training stage started <<<<<<]
+[2024-07-05 16:48:34,376: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 16:48:34,378: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 16:48:34,378: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 16:48:34,378: INFO: common: created directory at: artifacts]
+[2024-07-05 16:48:34,379: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-05 16:48:36,552: INFO: tpe: build_posterior_wrapper took 0.001396 seconds]
+[2024-07-05 16:48:36,552: INFO: tpe: TPE using 0 trials]
+[2024-07-05 16:56:52,176: INFO: tpe: build_posterior_wrapper took 0.001266 seconds]
+[2024-07-05 16:56:52,176: INFO: tpe: TPE using 1/1 trials with best loss 5.072711]
+[2024-07-05 16:57:25,057: INFO: tpe: build_posterior_wrapper took 0.001760 seconds]
+[2024-07-05 16:57:25,058: INFO: tpe: TPE using 2/2 trials with best loss 5.072711]
+[2024-07-05 16:58:08,281: INFO: tpe: build_posterior_wrapper took 0.001391 seconds]
+[2024-07-05 16:58:08,282: INFO: tpe: TPE using 3/3 trials with best loss 5.072711]
+[2024-07-05 17:03:26,849: INFO: tpe: build_posterior_wrapper took 0.001150 seconds]
+[2024-07-05 17:03:26,849: INFO: tpe: TPE using 4/4 trials with best loss 5.072711]
+[2024-07-05 17:05:56,913: INFO: tpe: build_posterior_wrapper took 0.001214 seconds]
+[2024-07-05 17:05:56,914: INFO: tpe: TPE using 5/5 trials with best loss 5.072711]
+[2024-07-05 17:13:58,802: INFO: tpe: build_posterior_wrapper took 0.001217 seconds]
+[2024-07-05 17:13:58,803: INFO: tpe: TPE using 6/6 trials with best loss 5.072711]
+[2024-07-05 17:25:45,336: INFO: tpe: build_posterior_wrapper took 0.001169 seconds]
+[2024-07-05 17:25:45,337: INFO: tpe: TPE using 7/7 trials with best loss 5.048430]
+[2024-07-05 17:26:50,774: INFO: tpe: build_posterior_wrapper took 0.001284 seconds]
+[2024-07-05 17:26:50,774: INFO: tpe: TPE using 8/8 trials with best loss 5.048430]
+[2024-07-05 17:32:24,244: INFO: tpe: build_posterior_wrapper took 0.001288 seconds]
+[2024-07-05 17:32:24,244: INFO: tpe: TPE using 9/9 trials with best loss 5.048430]
+[2024-07-05 17:37:17,680: INFO: main: >>>>>> stage Model Training stage completed <<<<<<
+
+x==========x]
+[2024-07-05 17:37:17,681: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 17:37:17,684: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 17:37:17,686: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 17:37:17,686: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 17:37:17,686: INFO: common: created directory at: artifacts]
+[2024-07-05 17:37:17,687: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 17:37:17,746: ERROR: main: /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/distutils/core.py]
+Traceback (most recent call last):
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/main.py", line 44, in <module>
+    model_evaluation.main()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/pipeline/stage_05_model_evaluation.py", line 16, in main
+    model_evaluation_config.run_register_model()
+  File "/Users/whysocurious/Documents/MLDSAIProjects/e2e-mlops-gcp/src/mlProject/components/model_evaluation.py", line 28, in run_register_model
+    mlflow.sklearn.autolog()
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/mlflow/utils/autologging_utils/__init__.py", line 453, in autolog
+    return _autolog(*args, **kwargs)
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 1274, in autolog
+    _autolog(
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 1836, in _autolog
+    estimators_to_patch = _gen_estimators_to_patch()
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/mlflow/sklearn/__init__.py", line 100, in _gen_estimators_to_patch
+    _, estimators_to_patch = zip(*_all_estimators())
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/mlflow/sklearn/utils.py", line 876, in _all_estimators
+    return all_estimators()
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/sklearn/utils/discovery.py", line 93, in all_estimators
+    for _, module_name, _ in pkgutil.walk_packages(path=[root], prefix="sklearn."):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/pkgutil.py", line 93, in walk_packages
+    __import__(info.name)
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/sklearn/_build_utils/__init__.py", line 16, in <module>
+    from .openmp_helpers import check_openmp_support
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/sklearn/_build_utils/openmp_helpers.py", line 12, in <module>
+    from .pre_build_helpers import compile_test_program
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/sklearn/_build_utils/pre_build_helpers.py", line 10, in <module>
+    from setuptools.command.build_ext import customize_compiler, new_compiler
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/setuptools/__init__.py", line 8, in <module>
+    import _distutils_hack.override  # noqa: F401
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/_distutils_hack/override.py", line 1, in <module>
+    __import__('_distutils_hack').do_override()
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/_distutils_hack/__init__.py", line 70, in do_override
+    ensure_local_distutils()
+  File "/Users/whysocurious/.local/share/virtualenvs/e2e-mlops-gcp-OPqJYq4S/lib/python3.9/site-packages/_distutils_hack/__init__.py", line 57, in ensure_local_distutils
+    assert '_distutils' in core.__file__, core.__file__
+AssertionError: /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/distutils/core.py
+[2024-07-05 19:41:39,302: INFO: main: >>>>>> stage Model Evaluation stage started <<<<<<]
+[2024-07-05 19:41:39,304: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-07-05 19:41:39,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-05 19:41:39,305: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-07-05 19:41:39,305: INFO: common: created directory at: artifacts]
+[2024-07-05 19:41:39,305: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-05 19:41:41,241: INFO: model_evaluation: Retrieve the top_n model runs and log the models.]
+[2024-07-05 19:41:41,299: INFO: model_evaluation: 5]
+[2024-07-05 19:41:41,299: INFO: model_evaluation: logging top_n models wiht test metrics.]
+[2024-07-05 19:41:41,299: INFO: model_evaluation: ('29858d487de840e7ac6958598e2a9b29', "{'rmse': 5.048429759131888}", "{'max_depth': '18', 'min_samples_leaf': '1', 'min_samples_split': '10', 'n_estimators': '38', 'random_state': '42'}")]
+[2024-07-05 19:41:41,456: INFO: model_evaluation: Evaluate model on the validation and test sets]
+[2024-07-05 19:42:02,860: INFO: model_evaluation: ('7564f24aa5f146e8963203df37a94f2e', "{'rmse': 5.072710974323998}", "{'max_depth': '14', 'min_samples_leaf': '4', 'min_samples_split': '7', 'n_estimators': '42', 'random_state': '42'}")]
+[2024-07-05 19:42:02,897: INFO: model_evaluation: Evaluate model on the validation and test sets]
+[2024-07-05 19:42:23,783: INFO: model_evaluation: ('e077953978a64d03a6b8a74b4b12ecca', "{'rmse': 5.0732468909873205}", "{'max_depth': '14', 'min_samples_leaf': '3', 'min_samples_split': '4', 'n_estimators': '26', 'random_state': '42'}")]
+[2024-07-05 19:42:23,819: INFO: model_evaluation: Evaluate model on the validation and test sets]
+[2024-07-05 19:42:39,963: INFO: model_evaluation: ('2c1c1591a822406297b8c7e80162ecb2', "{'rmse': 5.0735429761776665}", "{'max_depth': '14', 'min_samples_leaf': '2', 'min_samples_split': '3', 'n_estimators': '40', 'random_state': '42'}")]
+[2024-07-05 19:42:40,002: INFO: model_evaluation: Evaluate model on the validation and test sets]
+[2024-07-05 19:43:00,229: INFO: model_evaluation: ('2eb9a5e975244591a1bcd191136324df', "{'rmse': 5.073965907816358}", "{'max_depth': '14', 'min_samples_leaf': '2', 'min_samples_split': '6', 'n_estimators': '24', 'random_state': '42'}")]
+[2024-07-05 19:43:00,262: INFO: model_evaluation: Evaluate model on the validation and test sets]
+[2024-07-05 19:43:15,884: INFO: model_evaluation: Selecting the model with the lowest test RMSE]
+[2024-07-05 19:43:15,900: INFO: model_evaluation: Registering the best model]
+[2024-07-05 19:43:16,341: INFO: main: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x]
